@@ -1,2 +1,0 @@
-Easy-Real-Estate-Plugin
-=======================
