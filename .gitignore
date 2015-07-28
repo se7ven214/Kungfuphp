@@ -1,0 +1,8 @@
+
+*.php
+
+*.txt
+
+*.po
+
+wp-content/plugins/crayon-syntax-highlighter/util/theme-editor/images/toolbar.png
